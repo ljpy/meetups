@@ -1,45 +1,97 @@
-# Schedule
-## One month before meetup
-* Create a new Issue for the upcoming meetup
-  * Title: <Month> <Year> (example: June 2017)
-  * Body:
-  
+
+# Schedule a new meetup
+
+Create a new Issue for the upcoming meetup then follow the TODO items in the issue.
+
+* Title: `<Month> <Year>` (example: June 2017)
+* Body:
+
+```
+
+# Schedule a new meetup
+
+* [ ] Talk with Poligon and choose a date/time when their venue is available. Standard time is Thursday at 7pm, but we don't mind some variation. Book it.
+* [ ] Go to https://www.meetup.com/Ljubljana-Python-Group/ and use the `Schedule a new Meetup` to schedule a new meetup.
+  * [ ] Enter `<Month> <Year>` as `What should we do?`
+  * [ ] Enter `More details:`. Template:
   ```
-  foo
+  Hi fellow Pythonistas!
+
+  The next Python Meetup will take place on <DATE HERE>, at <TIME HERE> in Poligon.
+
+  Speakers: post a comment to https://github.com/ljpy/meetups/issues/1 or send an email to ljpy-organizers@googlegroups.com. First two people to do so get to share their ideas/tips/hacks/rants!
+
+  Sponsors: post a comment to https://github.com/ljpy/meetups/issues/2 or send an email to ljpy-organizers@googlegroups.com. First one to do so gets to be the sponsor!
+
+
+  See you soon!
   ```
+  * [ ] Select the booked date and time for the meetup.
+  * [ ] Select `Poligon` as location.
+  * [ ] When done click `Announce` so members of the user group are notified by email about the upcoming meetup.
 
-Two weeks before meetup
-1. Schedule the event on Meetup.com
-2. Announce the event on Meetup.com
-3. Post announcement to https://www.facebook.com/groups/242976319229784/
-4. Submit event to https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_event
-5. Post announcement to Slo-Tech
+# Annount the meetup
 
-On the day of the meetup
-1. Any international guests?
-2. #ljpython on socials
-4. Raise hand if you are new to this meetup
-5. Raise hand if your are new to Python
-3. Event sponsor, give them 3 minutes to introduce and do their hiring pitch
-8. Introduce speaker 2: Tilen Kusterle, 4 years full time python dev at Datafy, working web scraping
-7. Talk 1
-6. Introduce speaker 1: Been playing with Python for more than 10 years, taming snakes full-time at Klevi.io.
-9. Talk 2
-10. Thank speakers, introduce lightning talks
-11. Lightning talks.
-12. Upcoming events (Map on http://lmorillas.github.io/python_events/) (raise hands who is going)
-13. We need talks: beginners welcome! web, mobile, desktop, embedded, big data, everything goes
-14. We need sponsors: give back to the community!
-15. Provisional date for next meetup, June 22th, Thursday
-16. Help with organization!
-free beer thanks to sponsors!
-16. Who is looking for work? Who is looking for people to join?
+Wait a few days. If there are no sponsors and/or speakers that have stepped up, you will have to manually poke them to do so. Go through the list of potential [talks](https://github.com/ljpy/meetups/issues/1) and [sponsors](https://github.com/ljpy/meetups/issues/1). For speakers and sponsors, the rule is First-Come-First-Served: whoever comments on #1 or #2 first, gets to be the speaker/sponsor. Once you have a sponsor and two talks, continue with:
 
-The day after the meetup
-Follow up email:
-1. slides link (video?)
-2. thank the sponsor
-3. next provisional date
-4. Upcoming events
-5. CTA speakers and sponsors
-6. CTA org team
+* [ ] Go to https://www.meetup.com/Ljubljana-Python-Group/, click on the upcoming meetup and post the following:
+```
+Dear Python people of Ljubljana and beyond!
+
+We are glad to announce the speakers and sponsors for the upcoming Python meetup that will happen on <DATE HERE>, at <TIME HERE> in Poligon!
+
+<SPEAKER NAME AND TALK 1 TITLE HERE>
+
+<SPEAKER NAME AND TALK 2 TITLE HERE>
+
+After the talks you are welcome to stay around and participate in random discussions with fellow attendees. Free beer will be provided by <SPONSOR NAME HERE>!
+
+More info and RSVP on <LINK TO MEETUP.COM EVENT HERE>.
+
+
+See you there!
+```
+* [ ] Post announcement to https://www.facebook.com/groups/242976319229784/, https://www.facebook.com/groups/522926241218467/, https://www.facebook.com/groups/slotechstud/, https://www.facebook.com/groups/158003467603274/, https://www.facebook.com/groups/6884481293/, https://www.facebook.com/groups/353060628229741, https://www.facebook.com/groups/165720846803088.
+* [ ] Submit the event to https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_event
+* [ ] Post a news item on slo-tech.com. (login, click `pošlji novico`)
+* [ ] Post an announcement to http://www.internetmojster.com/novice/.
+* [ ] Tweet with @python_lj account:
+```
+Next #python #meetup in #ljubljana coming soon! <LINK TO MEETUP.COM EVENT HERE>
+```
+
+# Narrate the meetup
+
+* [ ] Come to Poligon 20 minutes before the start of the meetup.
+* [ ] Decide on a provisional date for next meetup.
+* [ ] Ask each speaker for a sentence or two about who they are and what they do. Tell them you need this so you can introduce them.
+* [ ] Coordinate with speakers who will go first.
+* [ ] If the sponsor is attending, ask them to prepare a 3 minute pitch about what they do and (potentially) who they are looking for.
+* [ ] The schedule is normally something along these lines. Feel free to improvise:
+  * [ ] "Any international guests"? If yes, ask speakers to present in English if possible.
+  * [ ] "Please use #ljpy hashtag on social networks for shoutouts, comments, photos, etc.".
+  * [ ] "Raise hand if you are new to this meetup".
+  * [ ] "Raise hand if you are new to Python".
+  * [ ] Introduce the sponsor and give them 3 minutes for their pitch.
+  * [ ] Introduce speaker 1.
+  * [ ] Take a photo during talk 1.
+  * [ ] Introduce speaker 2.
+  * [ ] Take a photo during talk 2.
+  * [ ] Thank speakers.
+  * [ ] Open http://lmorillas.github.io/python_events, "raise hands who is going".
+  * [ ] "We need talks: beginners welcome! web, mobile, desktop, embedded, big data, everything goes!"
+  * [ ] "We need sponsors: give back to the community!"
+  * [ ] "Provisional date for next meetup, raise hands".
+  * [ ] "Raise hands who is looking for work? Stand up who is hiring? Mingle!"
+
+# Follow up
+
+* [ ] Post photos to https://www.meetup.com/Ljubljana-Python-Group/
+* [ ] Tweet best photo with @python_lj account:
+```
+Good times yesterday at #ljubljana #python #meetup! <LINK TO MEETUP.COM EVENT HERE>
+```
+* [ ] Verify that the sponsor received invoice from Poligon.
+```
+
+

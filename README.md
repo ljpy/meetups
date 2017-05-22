@@ -7,7 +7,6 @@ Recent and upcoming events: https://www.meetup.com/Ljubljana-Python-Group/
 List of [previous and upcoming talks](https://github.com/ljpy/meetups/issues/1).
 
 List of [past and potential future sponsors](https://github.com/ljpy/meetups/issues/2).
-sdsds
 
 Find us under the `#ljpy` hashtag on socials!
 

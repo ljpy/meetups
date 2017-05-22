@@ -89,8 +89,8 @@ Wait a few days. If there are no sponsors and/or speakers that have stepped up, 
 
 * [ ] Post photos to https://www.meetup.com/Ljubljana-Python-Group/
 * [ ] Tweet best photo with @python_lj account, something like:
-  ```
-  Good times yesterday at #ljubljana #python #meetup! <LINK TO MEETUP.COM EVENT HERE>
-  ```
+    ```
+    Good times yesterday at #ljubljana #python #meetup! <LINK TO MEETUP.COM EVENT HERE>
+    ```
 * [ ] Verify that the sponsor received invoice from Poligon.
 ```

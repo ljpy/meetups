@@ -8,7 +8,7 @@ List of [previous and upcoming talks](https://github.com/ljpy/meetups/issues/1).
 
 List of [past and potential future sponsors](https://github.com/ljpy/meetups/issues/2).
 
-Find us under the `#ljpy` hashtag on socials!
+Find us under the [#ljpy](https://twitter.com/search?q=%23ljpy) hashtag on socials!
 
 ## Help us make these meetups happen
 

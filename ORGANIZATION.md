@@ -1,56 +1,55 @@
+# Organize a meetup
 
-# Schedule a new meetup
-
-Create a new Issue for the upcoming meetup then follow the TODO items in the issue.
+Everything about organizing a meetup should be kept inside an Issue dedicated to the meetup. 
+So, create a new Issue based on the template below for the upcoming meetup and then follow the TODO items in the body of the issue.
 
 * Title: `<Month> <Year>` (example: June 2017)
 * Body:
 
 ```
+# Schedule the meetup
 
-# Schedule a new meetup
-
-* [ ] Talk with Poligon and choose a date/time when their venue is available. Standard time is Thursday at 7pm, but we don't mind some variation. Book it.
-* [ ] Go to https://www.meetup.com/Ljubljana-Python-Group/ and use the `Schedule a new Meetup` to schedule a new meetup.
+* [ ] Talk with Marko from Poligon and choose a date/time when their venue is available. Standard time is Thursday at 7pm, but we don't mind some variation. Book it.
+* [ ] Go to https://www.meetup.com/Ljubljana-Python-Group/ and use the `Schedule a new Meetup` link to schedule a new meetup.
   * [ ] Enter `<Month> <Year>` as `What should we do?`
   * [ ] Enter `More details:`. Template:
-  ```
-  Hi fellow Pythonistas!
+    ```
+    Hi fellow Pythonistas!
 
-  The next Python Meetup will take place on <DATE HERE>, at <TIME HERE> in Poligon.
+    The next Python Meetup will take place on <DATE HERE>, at <TIME HERE> in Poligon.
 
-  Speakers: post a comment to https://github.com/ljpy/meetups/issues/1 or send an email to ljpy-organizers@googlegroups.com. First two people to do so get to share their ideas/tips/hacks/rants!
+    Speakers: post a comment to https://github.com/ljpy/meetups/issues/1 or send an email to ljpy-organizers@googlegroups.com. First two people to do so get to share their ideas/tips/hacks/rants!
 
-  Sponsors: post a comment to https://github.com/ljpy/meetups/issues/2 or send an email to ljpy-organizers@googlegroups.com. First one to do so gets to be the sponsor!
+    Sponsors: post a comment to https://github.com/ljpy/meetups/issues/2 or send an email to ljpy-organizers@googlegroups.com. First one to do so gets to be the sponsor!
 
 
-  See you soon!
-  ```
+    See you soon!
+    ```
   * [ ] Select the booked date and time for the meetup.
   * [ ] Select `Poligon` as location.
   * [ ] When done click `Announce` so members of the user group are notified by email about the upcoming meetup.
 
-# Annount the meetup
+# Announce the meetup
 
 Wait a few days. If there are no sponsors and/or speakers that have stepped up, you will have to manually poke them to do so. Go through the list of potential [talks](https://github.com/ljpy/meetups/issues/1) and [sponsors](https://github.com/ljpy/meetups/issues/1). For speakers and sponsors, the rule is First-Come-First-Served: whoever comments on #1 or #2 first, gets to be the speaker/sponsor. Once you have a sponsor and two talks, continue with:
 
 * [ ] Go to https://www.meetup.com/Ljubljana-Python-Group/, click on the upcoming meetup and post the following:
-```
-Dear Python people of Ljubljana and beyond!
+  ```
+  Dear Python people of Ljubljana and beyond!
 
-We are glad to announce the speakers and sponsors for the upcoming Python meetup that will happen on <DATE HERE>, at <TIME HERE> in Poligon!
+  We are glad to announce the speakers and sponsors for the upcoming Python meetup that will happen on <DATE HERE>, at <TIME HERE> in Poligon!
 
-<SPEAKER NAME AND TALK 1 TITLE HERE>
+  <SPEAKER NAME AND TALK 1 TITLE HERE>
 
-<SPEAKER NAME AND TALK 2 TITLE HERE>
+  <SPEAKER NAME AND TALK 2 TITLE HERE>
 
-After the talks you are welcome to stay around and participate in random discussions with fellow attendees. Free beer will be provided by <SPONSOR NAME HERE>!
+  After the talks you are welcome to stay around and participate in random discussions with fellow attendees. Free beer will be provided by <SPONSOR NAME HERE>!
 
-More info and RSVP on <LINK TO MEETUP.COM EVENT HERE>.
+  More info and RSVP on <LINK TO MEETUP.COM EVENT HERE>.
 
 
-See you there!
-```
+  See you there!
+  ```
 * [ ] Post announcement to https://www.facebook.com/groups/242976319229784/, https://www.facebook.com/groups/522926241218467/, https://www.facebook.com/groups/slotechstud/, https://www.facebook.com/groups/158003467603274/, https://www.facebook.com/groups/6884481293/, https://www.facebook.com/groups/353060628229741, https://www.facebook.com/groups/165720846803088.
 * [ ] Submit the event to https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_event
 * [ ] Post a news item on slo-tech.com. (login, click `pošlji novico`)
@@ -63,6 +62,7 @@ Next #python #meetup in #ljubljana coming soon! <LINK TO MEETUP.COM EVENT HERE>
 # Narrate the meetup
 
 * [ ] Come to Poligon 20 minutes before the start of the meetup.
+* [ ] Open up the Meetup.com event page on the projector so that new people know they are in the right place.
 * [ ] Decide on a provisional date for next meetup.
 * [ ] Ask each speaker for a sentence or two about who they are and what they do. Tell them you need this so you can introduce them.
 * [ ] Coordinate with speakers who will go first.
@@ -87,11 +87,9 @@ Next #python #meetup in #ljubljana coming soon! <LINK TO MEETUP.COM EVENT HERE>
 # Follow up
 
 * [ ] Post photos to https://www.meetup.com/Ljubljana-Python-Group/
-* [ ] Tweet best photo with @python_lj account:
-```
-Good times yesterday at #ljubljana #python #meetup! <LINK TO MEETUP.COM EVENT HERE>
-```
+* [ ] Tweet best photo with @python_lj account, something like:
+  ```
+  Good times yesterday at #ljubljana #python #meetup! <LINK TO MEETUP.COM EVENT HERE>
+  ```
 * [ ] Verify that the sponsor received invoice from Poligon.
 ```
-
-

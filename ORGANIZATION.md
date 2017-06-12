@@ -17,7 +17,7 @@ So, create a new Issue based on the template below for the upcoming meetup and t
         ```
         Hi fellow Pythonistas!
 
-        The next Python Meetup will take place on <DATE HERE>, at <TIME HERE> in Poligon.
+        The next Python Meetup will take place on <DAY> <DATE HERE>, at <TIME HERE> in Poligon.
 
         Speakers: post a comment to https://github.com/ljpy/meetups/issues/1 or send an email to ljpy-organizers@googlegroups.com. First two people to do so get to share their ideas/tips/hacks/rants!
 
@@ -38,8 +38,10 @@ Wait a few days. If there are no sponsors and/or speakers that have stepped up, 
     ```
     Dear Python people of Ljubljana and beyond!
 
-    We are glad to announce the speakers and sponsors for the upcoming Python meetup that will happen on <DATE HERE>, at <TIME HERE> in Poligon!
+    We are glad to announce the speakers and sponsors for the upcoming Python meetup that will happen on <DAY> <DATE HERE>, at <TIME HERE> in Poligon!
 
+    Talks:
+    
     <SPEAKER NAME AND TALK 1 TITLE HERE>
 
     <SPEAKER NAME AND TALK 2 TITLE HERE>

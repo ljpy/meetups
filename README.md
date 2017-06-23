@@ -1,6 +1,6 @@
 # Python Meetups in Ljubljana
 
-A somewhat monthly get-together of Pythonistas from Ljubljana, Slovenia, EU, with a talk or two, sometimes a [Ligthning Talks](https://en.wikipedia.org/wiki/Lightning_talk) session and discussions over sponsored beer afterwards. Non-slovenian-speaking attendees welcome as most of the talks are in English!
+A somewhat monthly get-together of Pythonistas from Ljubljana, Slovenia, EU, with a talk or two, sometimes a [Lightning Talks](https://en.wikipedia.org/wiki/Lightning_talk) session and discussions over sponsored beer afterwards. Non-slovenian-speaking attendees welcome as most of the talks are in English!
 
 Recent and upcoming events: https://www.meetup.com/Ljubljana-Python-Group/
 

@@ -55,8 +55,6 @@ Wait a few days. If there are no sponsors and/or speakers that have stepped up, 
     ```
 * [ ] Post announcement to https://www.facebook.com/groups/242976319229784/, https://www.facebook.com/groups/522926241218467/, https://www.facebook.com/groups/slotechstud/, https://www.facebook.com/groups/158003467603274/, https://www.facebook.com/groups/6884481293/, https://www.facebook.com/groups/353060628229741, https://www.facebook.com/groups/165720846803088.
 * [ ] Submit the event to https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_event
-* [ ] Post a news item on slo-tech.com. (login, click `pošlji novico`)
-* [ ] Post an announcement to http://www.internetmojster.com/novice/.
 * [ ] Tweet with @python_lj account:
     ```
     Next #python #meetup in #ljubljana coming soon! <LINK TO MEETUP.COM EVENT HERE>
@@ -71,11 +69,10 @@ Wait a few days. If there are no sponsors and/or speakers that have stepped up, 
 * [ ] Coordinate with speakers who will go first.
 * [ ] If the sponsor is attending, ask them to prepare a 3 minute pitch about what they do and (potentially) who they are looking for.
 * [ ] The schedule is normally something along these lines. Feel free to improvise:
-  * [ ] "Any international guests"? If yes, ask speakers to present in English if possible.
-  * [ ] "Please use #ljpy hashtag on social networks for shoutouts, comments, photos, etc.".
   * [ ] "Raise hand if you are new to this meetup".
   * [ ] "Raise hand if you are new to Python".
   * [ ] Introduce the sponsor and give them 3 minutes for their pitch.
+  * [ ] Cross out when you take a beer!
   * [ ] Introduce speaker 1.
   * [ ] Take a photo during talk 1.
   * [ ] Introduce speaker 2.

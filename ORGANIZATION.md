@@ -4,31 +4,31 @@
 Everything about organizing a meetup should be kept inside an Issue dedicated to the meetup. 
 So, create a new Issue based on the template below for the upcoming meetup and then follow the TODO items in the body of the issue.
 
-* Title: `<Month> <Year>` (example: June 2017)
+* Title: `LjPyMeetup <Month> <Year>` (example: LjPyMeetup June 2017)
 * Body:
 
 ```
 # Schedule the meetup
 
-* [ ] Talk with Marko from Poligon and choose a date/time when their venue is available. Standard time is Thursday at 7pm, but we don't mind some variation. Book it.
+* [ ] Talk with Poligon and choose a date/time when their venue is available. Standard time is Thursday at 7pm to 9pm, but we don't mind some variation. Book it.
 * [ ] Go to https://www.meetup.com/Ljubljana-Python-Group/ and use the `Schedule a new Meetup` link to schedule a new meetup.
-    * [ ] Enter `<Month> <Year>` as `What should we do?`
-    * [ ] Enter `More details:`. Template:
+    * [ ] Enter `<Month> <Year>` for `Meetup title`
+    * [ ] Select the booked date and time for the meetup.
+    * [ ] Select `Poligon` for Where.
+    * [ ] Enter `Description`. Template:
         ```
         Hi fellow Pythonistas!
 
-        The next Python Meetup will take place on <DAY> <DATE HERE>, at <TIME HERE> in Poligon.
+        The next Python Meetup will take place on Monday 20th August, at 7pm in Poligon.
 
-        Speakers: post a comment to https://github.com/ljpy/meetups/issues/1 or send an email to ljpy-organizers@googlegroups.com. First two people to do so get to share their ideas/tips/hacks/rants!
+        Speakers: post a comment to https://github.com/ljpy/meetups/issues/16 or send an email to ljpy-organizers@googlegroups.com. First two people to do so get to share their ideas/tips/hacks/rants!
 
-        Sponsors: post a comment to https://github.com/ljpy/meetups/issues/2 or send an email to ljpy-organizers@googlegroups.com. First one to do so gets to be the sponsor!
+        Sponsors: post a comment to https://github.com/ljpy/meetups/issues/16 or send an email to ljpy-organizers@googlegroups.com. First one to do so gets to be the sponsor!
 
 
         See you soon!
         ```
-    * [ ] Select the booked date and time for the meetup.
-    * [ ] Select `Poligon` as location.
-    * [ ] When done click `Announce` so members of the user group are notified by email about the upcoming meetup.
+    * [ ] When done click `Publish` and then `Announce it now` so members of the user group are notified by email about the upcoming meetup.
 
 # Announce the meetup
 

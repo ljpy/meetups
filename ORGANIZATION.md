@@ -12,7 +12,7 @@ So, create a new Issue based on the template below for the upcoming meetup and t
 
 * [ ] Talk with Poligon and choose a date/time when their venue is available. Standard time is Thursday at 7pm to 9pm, but we don't mind some variation. Book it.
 * [ ] Go to https://www.meetup.com/Ljubljana-Python-Group/ and use the `Schedule a new Meetup` link to schedule a new meetup.
-    * [ ] Enter `<Month> <Year>` for `Meetup title`
+    * [ ] Enter `LjPyMeetup <Month> <Year>` for `Meetup title`
     * [ ] Select the booked date and time for the meetup.
     * [ ] Select `Poligon` for Where.
     * [ ] Enter `Description`. Template:

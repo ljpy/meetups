@@ -17,13 +17,13 @@ So, create a new Issue based on the template below for the upcoming meetup and t
     * [ ] Select `Poligon` for Where.
     * [ ] Enter `Description`. Template:
         ```
-        Hi fellow Pythonistas!
+        Hello, fellow Pythonistas!
 
-        The next Python Meetup will take place on Monday 20th August, at 7pm in Poligon.
+        The next Python Meetup will take place on Thursday 15th November, at 7 pm in Poligon.
 
-        Speakers: post a comment to https://github.com/ljpy/meetups/issues/16 or send an email to ljpy-organizers@googlegroups.com. First two people to do so get to share their ideas/tips/hacks/rants!
+        Speakers: post a comment to https://github.com/ljpy/meetups/issues/19 or send an email to ljpy-organizers@googlegroups.com. The first two people to do so get to share their ideas/tips/hacks/rants!
 
-        Sponsors: post a comment to https://github.com/ljpy/meetups/issues/16 or send an email to ljpy-organizers@googlegroups.com. First one to do so gets to be the sponsor!
+        Sponsors: post a comment to https://github.com/ljpy/meetups/issues/19 or send an email to ljpy-organizers@googlegroups.com. The first one to do so gets to be the sponsor!
 
 
         See you soon!

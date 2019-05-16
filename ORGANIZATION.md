@@ -1,7 +1,7 @@
 
 # Organize a meetup
 
-Everything about organizing a meetup should be kept inside an Issue dedicated to the meetup. 
+Everything about organizing a meetup should be kept inside an Issue dedicated to the meetup.
 So, create a new Issue based on the template below for the upcoming meetup and then follow the TODO items in the body of the issue.
 
 * Title: `LjPyMeetup <Month> <Year>` (example: LjPyMeetup June 2017)
@@ -41,7 +41,7 @@ Wait a few days. If there are no sponsors and/or speakers that have stepped up, 
     We are glad to announce the speakers and sponsors for the upcoming Python meetup that will happen on <DAY> <DATE HERE>, at <TIME HERE> in Poligon!
 
     Talks:
-    
+
     <SPEAKER NAME AND TALK 1 TITLE HERE>
 
     <SPEAKER NAME AND TALK 2 TITLE HERE>
@@ -75,6 +75,7 @@ Wait a few days. If there are no sponsors and/or speakers that have stepped up, 
   * [ ] Cross out when you take a beer!
   * [ ] Introduce speaker 1.
   * [ ] Take a photo during talk 1.
+  * [ ] Record number of attendees, number of RSVPs on meetup.com and weather to github issue for respective month (see #25 for example).
   * [ ] Introduce speaker 2.
   * [ ] Take a photo during talk 2.
   * [ ] Thank speakers.
